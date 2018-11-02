@@ -40,7 +40,7 @@ Any on-chain provision included in any on-chain transaction, smart contract, or 
 ### Article XII - Defines what is "on-chain".
 On-chain, as herein defined, means any transaction, smart contract, or Ricardian contract which is located within a block that has been deemed irreversible and appended to the EOS blockchain {{chain_id}}.
 ### Article XIII - Establishes the only circumstances under which accounts or contracts may be modified by Block Producers on behalf of the user.
-Block Producers may never affect EOS User accounts where the owners of said account have not explicitly requested and prescribed the exact actions requested and have proven their ownership, or their authority, by way of a valid arbitral award authored by a duly registered arbitrator on-chain via regarb, to Block Producers. Block Producers may charge a fee for this service which is to be deposited into the eosio.vpay network fund to be distributed across all paid nodes.
+Block Producers may never affect EOS User accounts where the owners of said account have not explicitly requested and prescribed the exact actions requested and have proven their ownership, or their authority, by way of a valid arbitral award authored by a duly registered arbitrator on-chain via regarb, to Block Producers.
 ### Article XIV - No fiduciary.
 No User shall have a fiduciary responsibility to support the value of the EOS token. No User can authorize anyone to hold assets, borrow, speak, nor contract on behalf of EOS token holders or the blockchain {{chain_ID}} collectively. This blockchain shall have no owners, managers, or fiduciaries.
 ### Article XV - Personal security is the responsibility of the User, no one else.

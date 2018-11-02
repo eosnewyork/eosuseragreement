@@ -1,7 +1,7 @@
-EOS Platform User Agreement
-CHAIN ID == aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906
+# EOS Platform User Agreement
+## CHAIN ID == aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906
 
-Foreward
+### Foreward
 This document was written by EOS New York for the benefit of the community and is a result of our participation in the community-driven development of EOS governance over the past year. In order to be more sensitive to the many different ways the word "constitution" can be perceived across cultures and languages we have shifted the title of this document to the EOS Platform User Agreement. This document is an open-source template and EOS New York will not directly submit it for referendum. It is up to the community to decide if they believe this Agreement is a good foundation on which to build the ways we make collective decisions and direct the growth of the EOS Mainnet. In short, you should feel empowered to take this document and change it, amend it, propose it, or otherwise mold it to fit what you believe is best.
 
 The design principles for this document:

@@ -11,7 +11,7 @@ The design principles for this document:
 * Establishes the foundation of a dispute resolution framework and empowers individuals to self govern disputes as much as possible.
 
 ### Article I - Process for ratification of this EOS Platform User Agreement.
-This user agreement is considered ratified and approved for purposes of governing EOS Blockchain {{chain_id}} when at least 15% of issued tokens have registered a vote for the associated referendum, the difference in the number of affirmative staked tokens exceeds the number of negative staked tokens by no fewer than 10% of total issued EOS, for a period of at least 30 consecutive days within a 120-day period.
+This user agreement is considered ratified and approved for purposes of governing EOS Blockchain {{chain_id}} when no less than 15% of issued tokens participating and no fewer than 10% more Yes than No votes, sustained for 30 continuous days within a 120 day period.
 ### Article II - Defines the distributed jurisdiction of the EOS blockchain and that it exists in no physical place.
 The EOS blockchain {{chain_id}} is immutable and all records and actions are recorded forever. EOS blockchain {{chain_id}} exists in a distributed and decentralized jurisdiction. The EOS blockchain {{chain_id}} is to be governed by and construed under the rules contained herein, this duly ratified agreement.
 ### Article III - Defines the User types and consent to the EOS Platform User Agreement.

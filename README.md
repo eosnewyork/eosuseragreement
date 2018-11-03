@@ -85,9 +85,9 @@ Any on-chain provision included in any on-chain transaction, smart contract, or 
 
 If such a provision names or appoints an arbitrator or arbitrators registered through regforum Ricardian contract or regarb Ricardian contract, such method shall be followed. The application of either party to the controversy to the duly named {{regforum}} or {{regarb}} in such an on-chain provision is valid and enforceable, and {{regforum}} or {{regarb}} will act to resolve the controversy with full binding force and effect. Where agreed upon, users will submit to arbitration an existing controversy arising out of an on-chain transaction, smart contract, or Ricardian contract and will be administered by an arbitrator or arbitrators registered through regforum Ricardian contract or regarb Ricardian contract.
 
-### Article XIV - Establishes the only circumstances under which accounts or contracts may be modified by Block Producers on behalf of the user.
+### Article XIV - Modifications Of Accounts By Block Producers
 
-Block Producers may never affect EOS User accounts where the owners of said account have not explicitly requested and prescribed the exact actions requested and have proven their ownership, or their authority, by way of a valid arbitral award authored by a duly registered arbitrator on-chain via regarb, to Block Producers. Block Producers may charge a fee for this service which is to be deposited into the eosio.vpay network fund to be distributed across all paid nodes.
+Block Producers may never affect EOS User accounts unless the owners of said account have explicitly requested and prescribed the exact actions requested and have proven their ownership, or their authority, to Block Producers by way of a valid arbitral award authored by a duly registered arbitrator on-chain via regarb. Block Producers may charge a fee for this service which is to be deposited into the eosio.vpay network fund to be distributed across all paid nodes.
 
 ### Article XV - No Fiduciary
 

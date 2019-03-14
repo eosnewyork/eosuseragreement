@@ -63,7 +63,7 @@ All items pertaining to personal account security, including but not limited to 
 ## Article XI - `eosio.prods` Limited Liability
 The User acknowledges and agrees that, to the fullest extent permitted by any applicable law, this disclaimer of liability applies to any and all damages or injury whatsoever caused by or related to risks of, use of, or inability to use, the EOS token or the EOS blockchain `chain_id` under any cause of action whatsoever of any kind in any jurisdiction, including, without limitation, actions for breach of warranty, breach of contract or tort (including negligence) and that `eosio.prods`, nor the individual permissions that operate it, shall not be liable for any indirect, incidental, special, exemplary or consequential damages, including for loss of profits, goodwill or data. 
 
-# EOS 사용자 동의서 (EOS User Agreement)
+# EOS 사용자 동의서
 
 ## 정의
 
